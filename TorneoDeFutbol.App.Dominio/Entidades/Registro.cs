@@ -7,8 +7,8 @@ namespace TorneoDeFutbol.App.Dominio
      public  int Partidos_Ganados{ get;set; }
      public  int  Partidos_Empatados { get;set; }
      public  int Puntos { get;set; }
-     public  Equipo equipo { get;set; }
-     public  Datos_Partido datos { get;set; }
+     public  DatosPartido datos { get;set; }
           
      
     }
+}
