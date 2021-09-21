@@ -6,6 +6,16 @@ namespace TorneoDeFutbol.App.Persistencia
     public class AppContext : DbContext
     {
         public DbSet<Persona> Personas {get;set;}
+        public DbSet<Arbitro> Arbitros {get;set;}
+        public DbSet<Director_Tecnico> Directores_Tecnicos {get;set;}
+        public DbSet<Datos_Partido> Datos_Partidos {get;set;}
+        public DbSet<Equipo> Equipos {get;set;}
+        public DbSet<Estadio> Estadios {get;set;}
+        public DbSet<Jugador> Jugadores {get;set;}
+        public DbSet<Municipio> Municipios {get;set;}
+        public DbSet<Partido> Partidos {get;set;}
+        public DbSet<Registro> Registros {get;set;}
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

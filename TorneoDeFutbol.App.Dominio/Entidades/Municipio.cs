@@ -3,8 +3,8 @@ namespace TorneoDeFutbol.App.Dominio
 {
     public class Municipio
     {
-        private int ID { get;set; }
-        private string Nombre { get;set; }
+        public  int ID { get;set; }
+        public  string Nombre { get;set; }
    
          }
 }

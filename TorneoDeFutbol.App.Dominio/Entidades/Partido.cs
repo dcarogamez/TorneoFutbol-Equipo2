@@ -3,13 +3,13 @@ namespace TorneoDeFutbol.App.Dominio
 {
     public class Partido
     {
-     private int Id { get;set; }
-     private date Fecha { get;set; }
-     private  date Hora { get;set; }
-     private  bolean Equipo_Visitante { get;set; }
-     private  bolean Equipo_Local { get;set; }
-     private  int Marcador { get;set; }
-     private  Estadio estadio { get;set; }
+     public  int Id { get;set; }
+     public  date Fecha { get;set; }
+     public   date Hora { get;set; }
+     public   bolean Equipo_Visitante { get;set; }
+     public   bolean Equipo_Local { get;set; }
+     public   int Marcador { get;set; }
+     public   Estadio estadio { get;set; }
      
      
     }

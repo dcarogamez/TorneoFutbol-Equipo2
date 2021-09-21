@@ -3,6 +3,6 @@ namespace TorneoDeFutbol.App.Dominio
 {
     public class Director_Tecnico: Persona
     {
-          private Equipo MiEquipo { get;set; } 
+          public  Equipo MiEquipo { get;set; } 
          }
 }

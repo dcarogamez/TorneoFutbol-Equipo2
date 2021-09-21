@@ -3,12 +3,12 @@ namespace TorneoDeFutbol.App.Dominio
 {
     public class Registro
     {
-     private int Partidos_Jugados { get;set; }
-     private int Partidos_Ganados{ get;set; }
-     private int Partidos_Empatados { get;set; }
-     private int Puntos { get;set; }
-     private Equipo equipo { get;set; }
-     private Datos_Partido datos { get;set; }
+     public  int Partidos_Jugados { get;set; }
+     public  int Partidos_Ganados{ get;set; }
+     public  int  Partidos_Empatados { get;set; }
+     public  int Puntos { get;set; }
+     public  Equipo equipo { get;set; }
+     public  Datos_Partido datos { get;set; }
           
      
     }
