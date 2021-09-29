@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj": {}
+    "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
+    "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
         "projectName": "TorneoDeFutbol.App.Dominio",
-        "projectPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj": {
+    "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj",
         "projectName": "TorneoDeFutbol.App.Persistencia",
-        "projectPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj",
+        "projectPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
-                "projectPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj"
+              "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj"
               }
             }
           }

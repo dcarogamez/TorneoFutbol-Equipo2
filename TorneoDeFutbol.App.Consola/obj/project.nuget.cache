@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5+p8nVbO55C9WtpgtMf6bYsaFEjeKk1JBAS616fE5W+DLn5fDQDFIWY8MGphXNxR+y+/3wOv2N29HTzHBPr6fQ==",
+  "dgSpecHash": "ebEuHPvX5huTDnf7nbDGSVDeVNWDsvRfrLshbAxazOZiC+YRWYGcb7drXNu6l9qkZXFzp5oo7x7+ixWLFaUWxw==",
   "success": true,
-  "projectFilePath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\TorneoDeFutbol.App.Consola.csproj",
+  "projectFilePath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\TorneoDeFutbol.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diana\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\diana\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

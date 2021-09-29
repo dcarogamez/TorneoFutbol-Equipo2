@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
       "projectName": "TorneoDeFutbol.App.Dominio",
-      "projectPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
+      "projectPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"

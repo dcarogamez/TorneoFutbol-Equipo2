@@ -1,12 +1,15 @@
 using System;
+using System.ComponentModel.DataAnnotations;
+
 
 
 namespace TorneoDeFutbol.App.Dominio
 {
     public class Jugador: Participante
     {
-        public int NumCamiseta { get;set; }
-        public string Posicion { get;set; }
+        
+        public int numCamiseta { get;set; }
+        public string posicion { get;set; }
         public Participante participante  { get;set; }
         
    

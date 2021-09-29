@@ -1,4 +1,5 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 
 
 
@@ -6,13 +7,15 @@ namespace TorneoDeFutbol.App.Dominio
 {
     public class Participante
     {
-     public int Id { get;set; }
-     public string NumeroDocumento { get;set; }
-     public string Nombre { get;set; }
-     public string Apellido { get;set; }     
-     public string Direccion { get;set; }
-     public string Numero_Telefono  { get;set; }
-     public string Ciudad  { get;set; }
+
+     [Key]
+     public int idParticipante { get;set; }
+     public string numeroDocumento { get;set; }
+     public string nombre { get;set; }
+     public string apellido { get;set; }     
+     public string direccion { get;set; }
+     public string numeroTelefono  { get;set; }
+     public string ciudad  { get;set; }
      
    
     }

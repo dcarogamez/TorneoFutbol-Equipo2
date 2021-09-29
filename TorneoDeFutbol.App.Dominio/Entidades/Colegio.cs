@@ -1,4 +1,5 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 
 
 namespace TorneoDeFutbol.App.Dominio
@@ -9,8 +10,9 @@ namespace TorneoDeFutbol.App.Dominio
 
     public class Colegio
     {
-        public int Id { get;set; }
-        public string Nombre { get;set; }
+        [Key]
+        public int idColegio { get;set; }
+        public string nombre { get;set; }
         
     }
 }
