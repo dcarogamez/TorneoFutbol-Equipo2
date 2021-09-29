@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1XbTJ+RXdjJicW2SsS4NkKx9sSEJ9lY5SmuKTp7+aFRw9jV/8SULyEfsEhxD11WHtUD7Xe85oNjhp7MC2Rmyw==",
+  "dgSpecHash": "OMJRU1AdHjlIPLfVNrOHQ7ZZt0Qeqnn2+IOECQLLDyU2Gr2WAPWUsfuLcXjHbO0qF6zGdpB8eGuwfRLlBv5OnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Programación\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diana\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\diana\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

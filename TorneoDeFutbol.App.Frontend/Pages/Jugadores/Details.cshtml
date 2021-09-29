@@ -1,0 +1,20 @@
+﻿@page
+@model TorneDeFutbol.App.Frontend.Pages.Jugadores.DetailsModel
+@{
+}
+<h1>Detalle del Jugador</h1>
+<table class="table table-striped">
+    <tr>
+        <th scope="col">nombre</th>
+        <td>@Model.jugador.nombre</td>
+    </tr>
+    <tr></tr>
+        <th scope="col">apellido</th>
+        <td>@Model.jugador.apellido</td>
+    </tr>
+    <tr></tr>
+        <th scope="col">numeroTelefono</th>
+        <td>@Model.jugador.numeroTelefono</td>
+    </table>
+</table>
+<a class="btn btn-secondary" asp-page="./Index">Volver</a>

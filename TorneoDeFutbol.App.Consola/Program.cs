@@ -12,7 +12,7 @@ namespace TorneoDeFutbol.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World Entity Framework");
-            AddParticipante();
+            //AddParticipante();
             //BuscarParticipante(1);
             // IndexParticipantes();
             //DeleteParticipante ();
