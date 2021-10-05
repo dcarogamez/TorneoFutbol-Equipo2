@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TorneoDeFutbol.App.Persistencia\TorneoDeFutbol.App.Persistencia.csproj" />
+    <ProjectReference Include="..\TorneoDeFutbol.App.Dominio\TorneoDeFutbol.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

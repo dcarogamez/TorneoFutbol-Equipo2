@@ -1,13 +1,16 @@
 using System;
+using System.ComponentModel.DataAnnotations;
+
 
 
 namespace TorneoDeFutbol.App.Dominio
 {
     public class Estadio
     {
-        public  int Id { get;set; }
-        public  string Nombre { get;set; }
-        public  string Direccion { get;set; }
+        [Key]
+        public  int idEstadio { get;set; }
+        public  string nombre { get;set; }
+        public  string direccion { get;set; }
         public  Municipio municipio  { get;set; }
         
    

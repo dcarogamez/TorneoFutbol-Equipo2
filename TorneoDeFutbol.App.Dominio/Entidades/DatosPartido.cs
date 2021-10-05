@@ -1,19 +1,26 @@
 using System;
+using System.ComponentModel.DataAnnotations; 
 
 
 
 namespace TorneoDeFutbol.App.Dominio
+
 {
-    public class DatosPartido
+    public class Datos_Partido
     {
-     public  int Id_DatosPartido { get;set; }
-     public  int Marcador { get;set; }
-     public  int Tarjetas_Amarillas{ get;set; }
-     public  int Tarjetas_Rojas { get;set; }
-     public  int Goles_V { get;set; }
-     public  int Goles_L { get;set; }
-     public  int Tiempo { get;set; }
+     [Key]
+     public  int idDatosPartido { get;set; }
+     public  int marcador { get;set; }
+     public  int tarjetasAmarillas{ get;set; }
+     public  int tarjetasRojas { get;set; }
+     public  int golesV { get;set; }
+     public  int golesL { get;set; }
+     public  int tiempo { get;set; }
      public  Equipo equipo { get;set; }
+     public  Arbitro arbitro { get;set;}
+     public  Estadio estadio { get;set;}
+     public  bool equipoLocal {get;set; }
+     public  bool equipoVisitante {get;set; }
      
           
      

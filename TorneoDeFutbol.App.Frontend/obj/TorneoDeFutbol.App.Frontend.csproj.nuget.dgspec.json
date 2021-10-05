@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\TorneoDeFutbol.App.Frontend.csproj": {}
+    "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\TorneoDeFutbol.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\TorneoDeFutbol.App.Frontend.csproj": {
+    "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\TorneoDeFutbol.App.Frontend.csproj",
-        "projectName": "TorneoDeFutbol.App.Frontend",
-        "projectPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\TorneoDeFutbol.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Torneo_Futbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\obj\\",
+        "projectUniqueName": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
+        "projectName": "TorneoDeFutbol.App.Dominio",
+        "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\caliv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\caliv\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -48,9 +48,146 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\TorneoDeFutbol.App.Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\TorneoDeFutbol.App.Frontend.csproj",
+        "projectName": "TorneoDeFutbol.App.Frontend",
+        "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\TorneoDeFutbol.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\caliv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Frontend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caliv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj"
+              },
+              "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.persistencia\\TorneoDeFutbol.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.persistencia\\TorneoDeFutbol.App.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.persistencia\\TorneoDeFutbol.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.persistencia\\TorneoDeFutbol.App.Persistencia.csproj",
+        "projectName": "TorneoDeFutbol.App.Persistencia",
+        "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.persistencia\\TorneoDeFutbol.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\caliv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caliv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
