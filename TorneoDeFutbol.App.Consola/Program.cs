@@ -39,12 +39,10 @@ namespace TorneoDeFutbol.App.Consola
             //AsignarJugador();
                            
         }
->>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
             private static void AddParticipante()
             {
             var Participante = new Participante
             {
-<<<<<<< HEAD
                 numeroDocumento="11111",
                 nombre = "Pedro",
                 apellido = "Flores",
