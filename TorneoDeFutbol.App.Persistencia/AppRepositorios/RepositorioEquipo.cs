@@ -9,11 +9,16 @@ namespace TorneoDeFutbol.App.Persistencia
         private readonly AppContext _appContext  = new AppContext();
         
         Equipo IRepositorioEquipo.AddEquipo (Equipo equipo) 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
         {
             var equipoAdicionado = _appContext.Equipos.Add(equipo);
             _appContext.SaveChanges();
             return equipoAdicionado.Entity;
         } 
+<<<<<<< HEAD
         
         IEnumerable<Equipo> IRepositorioEquipo.GetAllEquipos()
         {
@@ -34,6 +39,21 @@ namespace TorneoDeFutbol.App.Persistencia
         }
 
         public Equipo GetEquipo(int Id_Equipo)
+=======
+         IEnumerable<Equipo> IRepositorioEquipo.GetAllEquipos()
+         {
+             return _appContext.Equipos;
+         }
+         public void DeleteEquipo(int Id_Equipo)
+        {
+            var equipoEncontrado = _appContext.Equipos.Find(Id_Equipo);
+            if (equipoEncontrado == null)
+                return;
+            _appContext.Equipos.Remove(equipoEncontrado);
+            _appContext.SaveChanges();
+         }
+         public Equipo GetEquipo(int Id_Equipo)
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
         {
             return _appContext.Equipos.Find(Id_Equipo);
         }

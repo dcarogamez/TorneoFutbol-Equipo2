@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TorneoDeFutbol.App.Persistencia;
 
 namespace TorneoDeFutbol.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    partial class AppContextModelSnapshot : ModelSnapshot
+    [Migration("20210929191819_Segunda")]
+    partial class Segunda
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -184,15 +186,6 @@ namespace TorneoDeFutbol.App.Persistencia.Migrations
                     b.Property<string>("direccion")
                         .HasColumnType("nvarchar(max)");
 
-<<<<<<< HEAD
-                    b.Property<DateTime>("fechaNacimiento")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("genero")
-                        .HasColumnType("int");
-
-=======
->>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
                     b.Property<string>("nombre")
                         .HasColumnType("nvarchar(max)");
 
@@ -333,13 +326,8 @@ namespace TorneoDeFutbol.App.Persistencia.Migrations
                     b.Property<int?>("participanteidParticipante")
                         .HasColumnType("int");
 
-<<<<<<< HEAD
-                    b.Property<int>("posicion")
-                        .HasColumnType("int");
-=======
                     b.Property<string>("posicion")
                         .HasColumnType("nvarchar(max)");
->>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
 
                     b.HasIndex("participanteidParticipante");
 

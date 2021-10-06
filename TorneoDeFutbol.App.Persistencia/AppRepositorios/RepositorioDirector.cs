@@ -15,7 +15,11 @@ namespace TorneoDeFutbol.App.Persistencia
             return directorAdicionado.Entity;
         } 
 
+<<<<<<< HEAD
          IEnumerable<Director_Tecnico> IRepositorioDirector.GetAllDirectoresTecnicos()
+=======
+         IEnumerable<Director_Tecnico> IRepositorioDirector.GetAllDirectorTecnico()
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
          {
              return _appContext.DirectoresTecnicos;
          }

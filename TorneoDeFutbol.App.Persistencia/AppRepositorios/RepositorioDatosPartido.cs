@@ -17,7 +17,11 @@ namespace TorneoDeFutbol.App.Persistencia
         } 
 
 
+<<<<<<< HEAD
          IEnumerable<Datos_Partido> IRepositorioDatosPartido.GetAllDatosPartidos()
+=======
+         IEnumerable<Datos_Partido> IRepositorioDatosPartido.GetAllDatosPartido()
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
          {
              return _appContext.DatosPartidos;
          }

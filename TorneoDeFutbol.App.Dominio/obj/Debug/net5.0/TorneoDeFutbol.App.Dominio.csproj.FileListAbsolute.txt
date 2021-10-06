@@ -34,6 +34,7 @@ C:\Users\caliv\OneDrive\Escritorio\27.09.21TorneoFutbol\TorneoDeFutbol.App\Torne
 C:\Users\caliv\OneDrive\Escritorio\27.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.dll
 C:\Users\caliv\OneDrive\Escritorio\27.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\ref\TorneoDeFutbol.App.Dominio.dll
 C:\Users\caliv\OneDrive\Escritorio\27.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.pdb
+<<<<<<< HEAD
 C:\Users\caliv\OneDrive\Escritorio\03_10_21_TorneoDeFutbol\27.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\TorneoDeFutbol.App.Dominio.deps.json
 C:\Users\caliv\OneDrive\Escritorio\03_10_21_TorneoDeFutbol\27.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\TorneoDeFutbol.App.Dominio.dll
 C:\Users\caliv\OneDrive\Escritorio\03_10_21_TorneoDeFutbol\27.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\ref\TorneoDeFutbol.App.Dominio.dll
@@ -58,3 +59,29 @@ C:\Users\caliv\OneDrive\Escritorio\03_10_21_TorneoDeFutbol\TorneoDeFutbol.App\To
 C:\Users\caliv\OneDrive\Escritorio\03_10_21_TorneoDeFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.dll
 C:\Users\caliv\OneDrive\Escritorio\03_10_21_TorneoDeFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\ref\TorneoDeFutbol.App.Dominio.dll
 C:\Users\caliv\OneDrive\Escritorio\03_10_21_TorneoDeFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.pdb
+=======
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\TorneoDeFutbol.App.Dominio.deps.json
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\TorneoDeFutbol.App.Dominio.dll
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\ref\TorneoDeFutbol.App.Dominio.dll
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\TorneoDeFutbol.App.Dominio.pdb
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.AssemblyInfo.cs
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.dll
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\ref\TorneoDeFutbol.App.Dominio.dll
+C:\Users\diana\Downloads\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.pdb
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\TorneoDeFutbol.App.Dominio.deps.json
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\TorneoDeFutbol.App.Dominio.dll
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\ref\TorneoDeFutbol.App.Dominio.dll
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\bin\Debug\net5.0\TorneoDeFutbol.App.Dominio.pdb
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.csproj.AssemblyReference.cache
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.AssemblyInfoInputs.cache
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.AssemblyInfo.cs
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.dll
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\ref\TorneoDeFutbol.App.Dominio.dll
+C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\obj\Debug\net5.0\TorneoDeFutbol.App.Dominio.pdb
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "US+VWGq+r0SCglwxKn52R/Y5OfrQf7E0jRo5BOCFI7iIVlCj7gO98sV4lQRG1L9pnSHpOryIJSGDBVVvteSG0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
+=======
+  "dgSpecHash": "3MrlJ4o4JTQDBcAFLYDc1684zL5Yq3cLOR+gKdpCZvWB0wm7uIbphlOOiuhtSruqLkNAB0JL8tJUda55Bq0HhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Programación\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj",
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TorneoDeFutbol.App.Dominio
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\caliv\OneDrive\Escritorio\03_10_21_TorneoDeFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\
+=======
+build_property.ProjectDir = C:\Programación\29.09.21TorneoFutbol\TorneoDeFutbol.App\TorneoDeFutbol.App.Dominio\
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0

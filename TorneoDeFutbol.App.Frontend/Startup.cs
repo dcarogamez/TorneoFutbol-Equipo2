@@ -25,6 +25,7 @@ namespace TorneoDeFutbol.App.Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+<<<<<<< HEAD
             services.AddSingleton<IRepositorioArbitro,  RepositorioArbitro>();
             services.AddSingleton<IRepositorioColegio,  RepositorioColegio>();
             services.AddSingleton<IRepositorioDatosPartido,  RepositorioDatosPartido>();
@@ -34,6 +35,10 @@ namespace TorneoDeFutbol.App.Frontend
             services.AddSingleton<IRepositorioJugador,  RepositorioJugador>();
             services.AddSingleton<IRepositorioMunicipio,  RepositorioMunicipio>();
             services.AddSingleton<IRepositorioParticipante,  RepositorioParticipante>();
+=======
+
+            services.AddSingleton<IRepositorioJugador, RepositorioJugador>();
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -8,6 +8,7 @@ namespace TorneoDeFutbol.App.Consola
         private static IRepositorioParticipante _repoParticipante = new RepositorioParticipante();
         private static IRepositorioJugador _repoJugador = new RepositorioJugador();
         private static IRepositorioEquipo _repoEquipo = new RepositorioEquipo();
+<<<<<<< HEAD
         
         static void Main(string[] args)
         {Console.WriteLine("Hello World Entity Framework");
@@ -24,10 +25,26 @@ namespace TorneoDeFutbol.App.Consola
         }
 
             //Método para AÑADIR PARTICIPANTE ***************************************************
+=======
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World Entity Framework");
+            //AddParticipante();
+            //BuscarParticipante(1);
+            // IndexParticipantes();
+            //DeleteParticipante ();
+            // AddJugador();
+            // AddEquipo();
+            //AsignarJugador();
+                           
+        }
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
             private static void AddParticipante()
             {
             var Participante = new Participante
             {
+<<<<<<< HEAD
                 numeroDocumento="11111",
                 nombre = "Pedro",
                 apellido = "Flores",
@@ -89,6 +106,29 @@ namespace TorneoDeFutbol.App.Consola
                 }*/
             }
 
+=======
+                numeroDocumento="588888",
+                nombre = "Luis",
+                apellido = "Rosero",
+                direccion = "Calle 56 No 78-3",
+                numeroTelefono = "8854455",
+                ciudad = "Bogota"
+                
+            };
+
+            _repoParticipante.AddParticipante(Participante);
+
+            }
+            
+            private static void BuscarParticipante(int Id_Participante)
+            {
+                var participante =_repoParticipante.GetParticipante(Id_Participante);
+
+                {
+                   Console.WriteLine(participante.nombre + " "+ participante.apellido); 
+                }
+            }
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
             private static void IndexParticipantes()
             {
                 foreach (var participante in _repoParticipante.GetAllParticipantes())
@@ -96,6 +136,7 @@ namespace TorneoDeFutbol.App.Consola
                    Console.WriteLine(participante.nombre + " "+ participante.apellido); 
                 }
             }
+<<<<<<< HEAD
             
 
             private static void AddEquipo()
@@ -114,6 +155,44 @@ namespace TorneoDeFutbol.App.Consola
             }
 
             
+=======
+            private static void DeleteParticipante()
+            {
+                _repoParticipante.DeleteParticipante(5);
+            }
+             private static void AddJugador()
+            {
+            var Jugador = new Jugador
+            {
+                numeroDocumento="333333",
+                nombre = "Juan ",
+                apellido = "Lopez",
+                direccion = "Calle 45 No 8-5",
+                numeroTelefono = "845215",
+                ciudad = "Bogota",
+                numCamiseta = 6,
+                posicion ="Defensa"
+                
+            };
+
+            _repoJugador.AddJugador(Jugador);
+            }
+
+            private static void AddEquipo()
+            {
+            var Equipo = new Equipo
+            {
+                
+                nombre = "Colombia",
+                
+                
+            };
+            
+
+            _repoEquipo.AddEquipo(Equipo);
+
+            }
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
             private static void AsignarJugador()
             {
                 var jugador = _repoEquipo.AsignarJugador(4,1);

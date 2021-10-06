@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "cDZ4WP1bjksq8mEMg+9PAD7D6LoHUdNIDhak7HWpK8oX1eG6JWZY3lt58buBNQsYXsc5m33TbAztCRyuidjUgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\TorneoDeFutbol.App.Consola.csproj",
+=======
+  "dgSpecHash": "ebEuHPvX5huTDnf7nbDGSVDeVNWDsvRfrLshbAxazOZiC+YRWYGcb7drXNu6l9qkZXFzp5oo7x7+ixWLFaUWxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\TorneoDeFutbol.App.Consola.csproj",
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
   "expectedPackageFiles": [
     "C:\\Users\\caliv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\caliv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -8,7 +8,11 @@ namespace TorneoDeFutbol.App.Persistencia
     {
         
         Datos_Partido AddDatosPartido (Datos_Partido datosPartido);
+<<<<<<< HEAD
         IEnumerable<Datos_Partido> GetAllDatosPartidos();
+=======
+        IEnumerable<Datos_Partido> GetAllDatosPartido();
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
         void DeleteDatosPartido(int Id_DatosPartido);
         //????Datos_Partido GetDatosPartido(int Id_DatosPartido);
         Equipo GetEquipoVisitante (int Id_Equipo);

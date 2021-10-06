@@ -5801,11 +5801,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\TorneoDeFutbol.App.Consola.csproj",
       "projectName": "TorneoDeFutbol.App.Consola",
       "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\TorneoDeFutbol.App.Consola.csproj",
       "packagesPath": "C:\\Users\\caliv\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\TorneoDeFutbol.App.Consola.csproj",
+      "projectName": "TorneoDeFutbol.App.Consola",
+      "projectPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\TorneoDeFutbol.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Consola\\obj\\",
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caliv\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5820,11 +5828,19 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
               "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj"
             },
             "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj": {
               "projectPath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\03_10_21_TorneoDeFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj"
+=======
+            "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Dominio\\TorneoDeFutbol.App.Dominio.csproj"
+            },
+            "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\diana\\Downloads\\29.09.21TorneoFutbol\\TorneoDeFutbol.App\\TorneoDeFutbol.App.Persistencia\\TorneoDeFutbol.App.Persistencia.csproj"
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
             }
           }
         }

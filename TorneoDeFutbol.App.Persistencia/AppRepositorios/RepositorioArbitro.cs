@@ -16,7 +16,11 @@ namespace TorneoDeFutbol.App.Persistencia
         } 
 
 
+<<<<<<< HEAD
          IEnumerable<Arbitro> IRepositorioArbitro.GetAllArbitros()
+=======
+         IEnumerable<Arbitro> IRepositorioArbitro.GetAllArbitro()
+>>>>>>> f458938893f44dcbf05a35525142bec7e48681e0
          {
              return _appContext.Arbitros;
          }
